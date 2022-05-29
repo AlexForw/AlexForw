@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Alexey
 ### I am Frontend Developer (React JS)
-![I am Frontend Developer (React JS)](https://github.com/sagar-viradiya/sagar-viradiya/blob/master/resources/banner.png?raw=true)
+![I am Frontend Developer (React JS)](https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif?raw=true)
 
 I really enjoy learning English and Programming. I try to code every day for fun and for improve my hard skills. I'm looking for a new experience and interesting projects.
 
